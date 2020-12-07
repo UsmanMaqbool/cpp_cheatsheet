@@ -1,2 +1,2 @@
-# c-_cheatsheet
+# c++_cheatsheet
 C++ Cheetsheet 
